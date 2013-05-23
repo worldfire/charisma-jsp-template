@@ -1,0 +1,6 @@
+Portal Page
+|---- Operations Page
+|-------- Dashboard
+|-------- Kit Management
+|-------- Resource Management
+|-------- User Management
