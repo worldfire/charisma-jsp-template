@@ -11,7 +11,7 @@ Please visit [http://usman.it/free-responsive-admin-template](http://usman.it/fr
 
 Build
 -----
-This is a Maven project.
+This is a [Maven](http://maven.apache.org/ "") project.
 
 To build and install to local Maven repository:
 
