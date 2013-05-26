@@ -1,4 +1,4 @@
-Charisma
+Charisma 
 ========
 
 #### free, premium quality, responsive, multiple skin admin template.
@@ -14,13 +14,16 @@ Build
 This is a Maven project.
 
 To build and install to local Maven repository:
+
 % mvn install
 
 To run the demo with Jetty: 
+
 % mvn jetty:run
 
 Jetty will start on port 9090:
 
-http://localhost:9090/
- 
- 
+[http://localhost:9090/](http://localhost:9090/ "") 
+
+=======
+
