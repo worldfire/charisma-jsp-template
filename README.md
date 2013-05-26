@@ -9,7 +9,6 @@ A JSP version of the Charisma Bootstrap theme (http://usman.it/themes/charisma).
 
 Please visit [http://usman.it/free-responsive-admin-template](http://usman.it/free-responsive-admin-template "") for more information.
 
-<<<<<<< HEAD
 Build
 -----
 This is a Maven project.
@@ -28,4 +27,3 @@ Jetty will start on port 9090:
 
 =======
 
->>>>>>> refs/remotes/origin/master
