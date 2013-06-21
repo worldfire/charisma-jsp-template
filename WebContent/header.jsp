@@ -8,7 +8,7 @@
 	<title>carisma | Responsive Bootstrap Template with JSP</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Responsive Bootstrap Template with JSP">
-	<meta name="author" content="at&t">
+	<meta name="author" content="">
 
 	<!-- The styles -->
 	<link id="bs-css" href="css/bootstrap-cerulean.css" rel="stylesheet">
