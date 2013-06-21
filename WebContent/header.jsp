@@ -58,7 +58,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</a>
-				<a class="brand" href="index.jsp"> <img alt="BigSky" src="img/weather_few_clouds.png" /> <span>Carisma</span></a>
+				<a class="brand" href="index.jsp"> <img alt="Carisma" src="img/weather_few_clouds.png" /> <span>Carisma</span></a>
 				
 				<!-- theme selector starts -->
 				<div class="btn-group pull-right theme-container" >
